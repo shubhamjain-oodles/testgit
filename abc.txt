@@ -1,1 +1,2 @@
-line1 commit 1 on merge
+line1 commit 1 on master
+line 2 commit 2 on master
