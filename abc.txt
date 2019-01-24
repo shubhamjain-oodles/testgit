@@ -1,3 +1,5 @@
 line1 commit 1 on master
 line 2 commit 2 on master
 line 3 commit 3 on dev
+merge from dev to master
+line 4 commit 4 on master
